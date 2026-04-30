@@ -11,5 +11,14 @@ A simple and interactive To-Do List Web App built using Python and Streamlit. Th
 💾 Persistent storage (if using file/JSON)
 🎯 Clean and user-friendly UI
 🛠️ Tech Stack
-Python 🐍
-Streamlit 🎈
+# Python 🐍
+# Streamlit 🎈
+
+🤝 Contributing
+
+##  Contributions are welcome!
+Feel free to fork this repo and submit a pull request.
+
+# 📄 License
+
+This project is licensed under the MIT License.
