@@ -4,7 +4,6 @@ import csv
 # Define the path to the CSV file
 CSV_FILE = "tasks.csv"
 
-# Define the main function
 def main():
     # Set the title of the web app
     st.title("To-Do List")
